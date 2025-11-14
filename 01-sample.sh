@@ -4,5 +4,5 @@ uname -a
 
 df -h
 
-yum list installed
+#yum list installed
 
