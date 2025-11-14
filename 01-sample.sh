@@ -2,5 +2,7 @@ ls -l
 
 uname -a
 
-yum list installed
+df -h
+
+#yum list installed
 
